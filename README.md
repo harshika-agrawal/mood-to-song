@@ -53,7 +53,7 @@ java Song
 
 ## Project Screenshot 📸
 
-(Add screenshot here later)
+![Project Screenshot](screenshot.png)
 
 ---
 
